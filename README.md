@@ -16,5 +16,5 @@ Expected: false, Output: false
 --- PASS: TestCase2 (0.00s)
 PASS
 coverage: 72.7% of statements
-ok      github.com/mxssl/LeetCodePalindromeNumber       0.175s  coverage: 72.7% of statements
+ok      github.com/mxssl/LeetCodePalindromeNumberGolang       0.175s  coverage: 72.7% of statements
 ```
